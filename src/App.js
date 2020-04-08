@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         
         <p>
-          Hello home!
+          Hello home.. :)
         </p>
         <a
           className="App-link"
